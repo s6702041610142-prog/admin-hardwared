@@ -1,0 +1,6 @@
+{
+  "name": "Hardware Quiz Online",
+  "description": "เกมตอบคำถามออนไลน์หัวข้ออุปกรณ์คอมพิวเตอร์ พร้อมระบบแก้ไขโจทย์และห้องเล่นหลายคนแบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
